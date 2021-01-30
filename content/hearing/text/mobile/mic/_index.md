@@ -18,21 +18,37 @@ weight: 10
 
 # 系统内置功能
 
+## Android 原生功能
+
 部分 Android 手机在安装 Android 10 以后的操作系统之后，会有一项 Live Transcribe 功能。该功能支持中文和英文。使用该功能不需要联网，完全免费没有转录时间限制，本文作者认为它是目前最好的解决办法之一。
+
+由于该功能不需要联网，能够刷官方 Android 系统的国产手机很可能也可以使用。
+
+## Android 手机厂商提供的功能
+
+这些功能往往只能在该品牌的新款手机上使用。
+
+### 华为
+
+华为在 2020 年为其最新手机推出了“[AI字幕](https://consumer.huawei.com/cn/support/content/zh-cn15768919/)”功能，需要升级到 EMUI 11.0 系统。
+
+### 小米
+
+小米与讯飞合作提供了“小米闻声”app。
 
 # 专门 app
 
 ## 中文转录
 
-- 讯飞听见
+- [讯飞听见](https://www.iflyrec.com/)
 
-- 讯飞语记
+- [讯飞语记](http://www.iyuji.cn/)
 
-- 音书
+- [音书](http://www.voibook.com/)
 
 ## 英文转录
 
-- Otter
+- [Otter](https://otter.ai/)
 
 # 其它方法
 
