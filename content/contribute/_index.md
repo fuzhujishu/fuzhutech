@@ -5,6 +5,7 @@ draft: false
 hidden: true
 ---
 
+
 我们欢迎一切参与！
 
 目前急需补充的主题见 [这里](need)。
@@ -20,6 +21,7 @@ hidden: true
 
 我们不做
 
+- 恶意攻击任何群体
 - 吹捧或贬低某些厂商
 
 我们需要各路朋友的经验，也欢迎对已有文章进行润色。
@@ -30,19 +32,19 @@ hidden: true
 
 那真是太好了！
 
-本站使用 hugo 构建。在 hugo 站点中，原始文档以 markdown 格式写成，您在网站左边看到的文章树状列表就是文件夹的实际结构，非常简单明了。本站的原始文档在 [这里](https://github.com/fuzhujishu/fuzhutech)。
+出于[种种原因](why-hugo)，本站使用 hugo 构建。在 hugo 站点中，原始文档以 markdown 格式写成，您在网站左边看到的文章树状列表就是文件夹的实际结构，非常简单明了。本站的原始文档在 [这里](https://github.com/fuzhujishu/fuzhutech)。
 
 您可以先联系我们聊一聊，如果您经验丰富，我们很愿意直接给您开放 GitHub 的 direct access 权限。那样您只需要在任何页面右上角点击“Edit this page”即可在网页中直接编辑对应页面的 markdown 源文件。
 
 如果您觉得这样有点责任重大，那么也可以给我们发 Pull Request。
 
-我们有一篇关于如何使用 GitHub 编辑本站的 [教程](github)。
+我们有一篇关于如何使用 GitHub 编辑本站的 [教程](github)。还有一篇“[如何为本站写文章](write)”讲了一点格式上的约定。
 
 ### 不懂 markdown? 
 
 那也不要紧！润色文字并不需要懂 markdown。只要您有责任心有热情，我们一样欢迎！
 
-我们的联系方式在下面。
+我们的联系方式在下面。有一篇非常简单的 [润色须知](proof)
 
 ## 如果您愿意长期参与讨论
 
@@ -63,3 +65,7 @@ hidden: true
 如果您不愿意使用 GitHub 的话，我们也可以代您上传到网站上。如果您愿意的话，我们可以为您署名并致谢。
 
 如果您有已经写好的文章底稿，愿意授权我们使用，您可以直接发到我们的邮箱 [fuzhujishu@gmail.com](mailto:fuzhujishu@gmail.com)。
+
+# 帮助文档一览
+
+{{% children  depth="2" %}}
