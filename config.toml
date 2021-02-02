@@ -1,0 +1,24 @@
+baseURL = "http://www.fuzhu.tech/"
+languageCode = "zh"
+title = "残障辅助技术指南"
+
+theme = "hugo-theme-learn"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+editURL = "https://github.com/fuzhujishu/fuzhutech/blob/main/content/"
+description = "对身心障碍人士有用的辅助技术使用经验"
+disableLandingPageButton = false
+
+[Lanugages]
+[Lanugages.zh]
+landingPageURL = "/"
+landingPageName = "<i class='fas fa-home'></i> 主页"
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> 欢迎加入"
+identifier = "ds"
+url = "/contribute"
+weight = 10
