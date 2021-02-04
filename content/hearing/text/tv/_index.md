@@ -1,5 +1,6 @@
 ---
 title: "听障看电视如何添加字幕"
+menutitle: "电视"
 date: 2021-01-29T00:43:43-05:00
 draft: false
 ---
@@ -20,6 +21,6 @@ draft: false
 
 官方产品介绍及购买方式 [见此](https://mp.weixin.qq.com/s/3kfXDZwBd99wT7UMyUFQ3A)
 
-[官方视频介绍](http://www.zimuplus.com/case.php?cid=16)
-
 具体使用方式可咨询上面链接里的淘宝客服和微信客服索取。
+
+[官方视频介绍](http://www.zimuplus.com/case.php?cid=16)
