@@ -14,4 +14,12 @@ draft: false
 
 # 专门设备
 
-今声优盒
+## 今声优盒
+
+“[今声优盒](http://www.zimuplus.com/caseshow.php?cid=16&id=66)”是一款酷似机顶盒的产品，基于阿里巴巴的语音引擎提供实时字幕。
+
+官方产品介绍及购买方式 [见此](https://mp.weixin.qq.com/s/3kfXDZwBd99wT7UMyUFQ3A)
+
+[官方视频介绍](http://www.zimuplus.com/case.php?cid=16)
+
+具体使用方式可咨询上面链接里的淘宝客服和微信客服索取。
