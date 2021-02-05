@@ -69,17 +69,38 @@ Smartisan OS 7.0以及最新的8.0系统都支持电话实时字幕功能。在�
 
 虽然在手机上也可以像固定电话一样使用 711 服务，但是对于智能手机用户来说，一些专门的 app 的使用体验往往比 711 更好，所以更推荐使用这些代表现代技术的 app 进行通话。新老字幕服务的经费来自于同一个[基金](../../phone/#美国)，用户都是无需付费的。
 
+2019 年起，Google 率先在 Android 系统中提供了字幕功能。日后有可能这类操作系统提供的功能会日益普及。
+
 ## 专门 app
 
 下列专门 app 提供类似于[联通王卡](#联通畅听王卡)和[字幕电话机](../../phone/#字幕电话)的使用体验，可以在 app 中拨号，也可以接听电话。用户讲的话对方可以直接听到。对方讲的话在回传给用户听的同时，由打字员打出来。由于用户还需要自行讲话，下述 app 除特别标明的以外，不适合不能讲口语的用户使用。
 
-- [InnoCaption](https://innocaption.com/)  该 app 目前有两种模式，一种是人工打字员，一种是机器自动转写。
+- [InnoCaption](https://innocaption.com/)  该 app 目前有两种模式，一种是人工打字员，一种是机器自动转写。支持英语和西班牙语。虽然不是老牌 relay 服务商，但这两年成长很快，用户很多。
 
 - [CaptionCall](https://captioncall.com/mobile)
+
+- [ClearCaption](https://clearcaptions.com/mobile-phone/) 
+目前不支持 Android。
+
+- [CaptionMate](https://www.captionmate.com/) 新近进入市场的新锐。完全使用机器转写，比人工转写更快但无法转写语音之外的声音。得益于其机器引擎，可以支持 100 种以上语言，是各种转写工具中支持语言数目最多的。
+
+- [Hamilton Captel](https://hamiltoncaptel.com/mobile-apps-for-smartphones-and-tablets.html) 最大的字幕电话机厂商，但此 app 长期未更新，已经不支持最新 iOS 和 Android 系统。
 
 - [Sprint IP Relay](https://www.sprintrelay.com/iprelay) 使用该 app 不需要是 Sprint 用户。该 app 可以为不能讲口语的用户提供完整的 TTY Relay 服务。该 app 也支持盲聋用户连接盲文点显器进行使用。
 
 安装并设置好上述任意一个 app 之后，可以获得一个新的电话号码。当其它人拨打这个新的电话号码时，会启动该 app 并显示字幕。如果需要保留原来的手机号码，可以通过设置呼叫转移来实现。
+
+## 手机操作系统提供的字幕
+
+自 Android 10 起，部分 Android 手机自带 Live Caption 功能，可以为通话提供字幕。该功能目前只支持英语。
+
+此功能完全在手机本地执行，不会联网。
+
+## 移动运营商提供的字幕
+
+美国的移动运营商目前还只为通话提供 711 接入。711 服务的详情见[下节](#711)。
+
+但是，对于 Voice Mail （语音信箱），已经有不少移动运营商提供了语音转文字功能。
 
 ## 711
 
